@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bootstrap-icons": "github:twbs/icons",
+    "react-icons": "^5.2.1"
+  }
+}
